@@ -1,4 +1,26 @@
-# resume-craft — 简历生成与优化
+# resume-craft — 简历生成与优化 | Resume Builder & Optimizer
 
-两种模式：优化已有简历 / 从零新建简历。内置 STAR 法则 + 去 AI 味。
-详情见 `.reasonix/skills/resume-craft/SKILL.md`
+> STAR法则 · 去AI味 · 一键生成 · 针对岗位定制
+
+## 这是什么
+
+`resume-craft` 是一个 Reasonix skill，帮助求职者快速生成和优化简历。支持两种模式：优化已有简历 / 从零新建简历。
+
+## 功能
+
+- ✨ **优化模式**：粘贴已有简历，针对性优化
+- 🆕 **新建模式**：从零引导创建完整简历
+- 🎯 **岗位定制**：根据目标岗位调整侧重点
+- ⭐ **STAR法则**：自动将经历按 STAR 重构
+- 🧹 **去AI味**：去除模板化表达
+
+## 快速开始
+
+```
+/resume-craft 数据分析岗          ← 粘贴简历后按数据岗优化
+/resume-craft 新建 审计岗          ← 从零新建审计方向简历
+```
+
+## 许可
+
+MIT
